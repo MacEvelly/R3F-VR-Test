@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/R3F-VR-Test/static/css/main.b13e529e.chunk.css",
+    "main.js": "/R3F-VR-Test/static/js/main.fb696dae.chunk.js",
+    "main.js.map": "/R3F-VR-Test/static/js/main.fb696dae.chunk.js.map",
+    "runtime-main.js": "/R3F-VR-Test/static/js/runtime-main.ac74b7af.js",
+    "runtime-main.js.map": "/R3F-VR-Test/static/js/runtime-main.ac74b7af.js.map",
+    "static/js/2.9b054fc1.chunk.js": "/R3F-VR-Test/static/js/2.9b054fc1.chunk.js",
+    "static/js/2.9b054fc1.chunk.js.map": "/R3F-VR-Test/static/js/2.9b054fc1.chunk.js.map",
+    "index.html": "/R3F-VR-Test/index.html",
+    "static/css/main.b13e529e.chunk.css.map": "/R3F-VR-Test/static/css/main.b13e529e.chunk.css.map",
+    "static/js/2.9b054fc1.chunk.js.LICENSE.txt": "/R3F-VR-Test/static/js/2.9b054fc1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac74b7af.js",
+    "static/js/2.9b054fc1.chunk.js",
+    "static/css/main.b13e529e.chunk.css",
+    "static/js/main.fb696dae.chunk.js"
+  ]
+}
